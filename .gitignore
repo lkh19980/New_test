@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# User Custom files
+*.launch
+*.Id
+*.project
+*.mxproject
+*.cproject
+
+# User Custom Directories
+Drivers/
+Debug/
+.settings/
+Startup/
