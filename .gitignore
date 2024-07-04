@@ -33,7 +33,7 @@
 
 # User Custom files
 *.launch
-*.Id
+*.ld
 *.project
 *.mxproject
 *.cproject
@@ -43,3 +43,4 @@ Drivers/
 Debug/
 .settings/
 Startup/
+.metadata/
